@@ -46,7 +46,7 @@
 .top {
     background: rgb(56,50,49);
     background: linear-gradient(90deg, rgba(56,50,49,1) 10%, rgba(0,0,0,1) 100%); 
-    width: 1275px;
+    width: 715px;
     height: 60px;
     border-bottom: red 2px solid;
 }
@@ -55,4 +55,8 @@
     background-color: #454545;
     width: 50px;
     height: 25px;
+}
+
+@media  (max-device-width: 480px) and (orientation: landscape) {
+    
 }
