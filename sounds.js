@@ -12,6 +12,6 @@ for (let i = 0; i < whiteKeys.length; i++){
     })
 };
 
-for (let i = 0; i < blackKeys.length; i++){
-    blackKeys[i].addEventListener("click", note)
-}
+// for (let i = 0; i < blackKeys.length; i++){
+//     blackKeys[i].addEventListener("click", note)
+// }
